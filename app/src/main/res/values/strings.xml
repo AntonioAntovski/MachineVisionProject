@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arduino Communication</string>
+    <string name="desc">Description</string>
+</resources>
